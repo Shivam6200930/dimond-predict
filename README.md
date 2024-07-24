@@ -11,7 +11,6 @@ Welcome to the Diamond Price Prediction repository! This project aims to build a
 - [Models](#models)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
