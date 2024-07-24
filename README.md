@@ -45,12 +45,14 @@ To run the project locally, follow these steps:
 2. Set up a virtual environment and activate it:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate.  # On Windows use `venv\Scripts\activate`
+```
+
 
 3.Install the required packages:
 ```
  pip install -r requirements.txt
-
+```
 
  ## Usage
 
