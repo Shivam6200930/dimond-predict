@@ -64,18 +64,18 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
  ## Models
  This project explores various machine learning models for predicting diamond prices, including:
 
-  1.Linear Regression
-  2.Decision Trees
-  3.Random Forest
-  4.Gradient Boosting
-  5.Neural Networks
+  1.Linear Regression.
+  2.Decision Trees.
+  3.Random Forest.
+  4.Gradient Boosting.
+  5.Neural Networks.
 
   ## Results
    The models are evaluated using metrics such as:
 
-   1.Mean Absolute Error (MAE)
-   2.Root Mean Squared Error (RMSE)
-   3.R-squared Score (R²)
+   1.Mean Absolute Error (MAE).
+   2.Root Mean Squared Error (RMSE).
+   3.R-squared Score (R²).
 
 
   ## Contributing
